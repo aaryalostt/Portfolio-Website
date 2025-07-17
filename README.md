@@ -7,5 +7,4 @@ A simple personal website created using HTML.
 - Add resume
 - Make it mobile responsive
 
-Work in progress 🚧
 
