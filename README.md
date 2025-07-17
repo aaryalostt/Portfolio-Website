@@ -1,2 +1,11 @@
-# Portfolio-Website
-Code for my personal portfolio website (work in progress)
+# Portfolio Website
+
+A simple personal website created using HTML.
+
+## Future Plans
+- Add project details
+- Add resume
+- Make it mobile responsive
+
+Work in progress 🚧
+
